@@ -5,10 +5,10 @@ Site-ul de test: https://www.https://www.demoblaze.com/ Design pattern folosit: 
 Pentru a importa projectul folositi: git clone https://github.com/Ioan-Dumitrica/ProiectFinal-TA.git
 
 Libraries to install: 
-*pip install -U selenium 
-*pip install behave 
-*pip install behave-html-formatter 
-*pip install webdriver-manager
+* pip install -U selenium 
+* pip install behave 
+* pip install behave-html-formatter 
+* pip install webdriver-manager
 
 Troubleshoot: 
 * a. Daca nu merge cu pip incercati comanda: py -m pip install selenium\
